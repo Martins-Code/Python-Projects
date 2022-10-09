@@ -1,2 +1,2 @@
 def password():
-    return 'tammsnjxboyitaue'
+    return 'enter your password here'
